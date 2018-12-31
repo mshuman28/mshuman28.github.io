@@ -1,5 +1,17 @@
-html{
-  background-color: orange;
-  
-  
+
+html {
+        background-color: indigo;
+        text-align: center;
+        margin: 1px 0px 1px 0px;
+        border:1px solid black;
 }
+    header {  
+        box-shadow: 1px 1px;
+        text-shadow: 1px 1px 1px indigo;
+    }
+    body {
+        font: normal 20px Serif;
+    }
+        img {
+        border:3px solid;
+        }
