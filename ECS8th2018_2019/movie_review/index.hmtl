@@ -1,1 +1,37 @@
+<!doctype html>
+<html>
+    <title> John Wick </title>
+    <link rel="stylesheet" href="movie.css">
+    @import url(https://fonts.googleapis.com/css?family=Cinzel+Decorative:700);
 
+    <h1>JOHN WICK </h1>
+    <img src="https://images-na.ssl-images-amazon.com/images/I/51xEzPV3VsL._SY445_.jpg" width=280 alt="John Wick" title="John Wick">
+
+    <p> <strong> Genre:</strong> Action Film/Thriller
+    <br><strong>Release Date:</strong> October 24<sup>th</sup>, 2014
+    <br><strong>Director/s:</strong> Chad Stahelski
+    <br><strong>Production Company:</strong>
+    <a href="http://www.summitentertainment.com.pk/about.html">Summit Entertainment</a>
+
+    <h2>Movie Summary</h2>
+    <p>Legendary assassin John Wick (Keanu Reeves) retired from his violent career after marrying the love of his life. Her sudden death leaves John in deep mourning. When sadistic mobster Iosef Tarasov (Alfie Allen) and his thugs steal John's prized car and kill the puppy that was a last gift from his wife, John unleashes the remorseless killing machine within and seeks vengeance. Meanwhile, Iosef's father (Michael Nyqvist) -- John's former colleague -- puts a huge bounty on John's head.
+
+    <h2>Trailer</h2>
+    <iframe src="https://www.youtube.com/watch?v=2AUmvWm5ZDQ" width="300" height="200" frameborder="0" allowfullscreen></iframe>
+
+    <h2>Characters</h2>
+    <ul>
+        <li> <a href="character.html">John Wick</a>
+        <li> Winston
+        <li> Marcus
+        <li> Ms. Perkins
+        <li> Viggo tarasov
+        <li> Helen Wick
+    </ul>
+
+    <hr>
+
+    <footer>Created by Matt, 2018</footer>
+</html>
+
+  
