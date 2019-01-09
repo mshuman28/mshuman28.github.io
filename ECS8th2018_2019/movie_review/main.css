@@ -1,0 +1,38 @@
+@import url(http://fonts.googleapis.com/css?family=Cinzel+Decorative:700);
+
+h1,
+h2,
+footer {
+  border: 5px solid rgb(255,255,255);
+  font-family: 'Cinzel Decorative', serif;
+  text-align: center;
+}
+
+html {
+  font: 18px 'Century Gothic', sans-serif;
+  margin: 0 auto 0 auto;
+  width: 320px;
+}
+
+h1{
+  font-size: 60px;
+  text-shadow: 0px 1px 0px cornflowerBlue,
+               0px 2px 0px royalBlue,
+               0px 3px 0px steelBlue,
+               0px 4px 5px midnightBlue;
+}
+
+h1,
+h2,
+a,
+footer {
+  color: rgb(30, 164, 193);
+}
+
+a:hover{
+  color: rgb(3, 102, 193);
+}
+
+img{
+  border: 10px inset white;
+}
